@@ -7,5 +7,5 @@ managedNodeGroups:
   - name: expense
     instanceTypes: [m5.large]
     spot: true  
-    desiredCapacity: 3
+    desiredCapacity: 2
     
